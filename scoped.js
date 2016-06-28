@@ -213,3 +213,5 @@ var scopedPolyFill = (function (doc, undefined) {
     return scopeIt;
 
 })(document);
+
+module.exports = scopedPolyFill;
